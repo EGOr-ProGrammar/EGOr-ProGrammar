@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @EGOr-ProGrammar, I'm from Russia blyat
+- 👋 Hi, I’m @EGOr-ProGrammar, I'm Russian blyat
 - 👋 Всем привет! Писал описание для этих, английских чурок, но думаю русские меня всё равно поймут
 - 👀 I’m interested in making free and open software
-- ✍ I’m currently learning C# and WPF
+- ✍ I’m currently learning Kotlin and Android development
 - 📚 I know basics of python and tkinter, SQLite, a bit of pygame
-- 📑 I'd like to learn: C#, XAML, SQL Server or MySQL, MVVM pattern; python, Django, Scrapy; OOP, algorithms and data structures, design patterns
+- 📑 I'd like to learn: desktop development(WPF), MySQL, MVVM pattern; Django, Pyautogui, Scrapy; OOP, algorithms and data structures, design patterns
 - 📑 I'd like to try: Linux, freelancing, javascript
 - 👨‍💻I am happy to work on any project
 
